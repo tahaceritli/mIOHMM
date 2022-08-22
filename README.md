@@ -8,6 +8,8 @@ This repository contains the code to reproduce the experiments in:
 ICML 2022}
 ```
 
+See https://arxiv.org/abs/2207.11846 for our latest arXiv submission.
+
 Note that we extend the codebase in https://github.com/kseverso/DiseaseProgressionModeling-HMM 
 and apply the data preprocessing steps in https://github.com/kseverso/Discovery-of-PD-States-using-ML. The repository is structured following the template provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)*.
 
@@ -72,7 +74,24 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 ```
 --->
 
-## Contributing
+## Contributors
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://tahaceritli.github.io/"><img src="https://tahaceritli.github.io/images/profile.png" width="100px;" alt=""/><br /><sub><b>Taha Ceritli</b></sub> </a> </td>
+    <td align="center"><a href="https://github.com/apcreagh"><img src="https://avatars.githubusercontent.com/u/22932251?v=4" width="120px;" alt=""/><br /><sub><b>Andrew P. Creagh</b></sub> </a> </td>
+    </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+
+
 If you encounter an issue in mIOHMM, please [open an 
 issue](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) 
 or [submit a pull 
