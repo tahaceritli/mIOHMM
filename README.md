@@ -81,7 +81,7 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 <table>
   <tr>
     <td align="center"><a href="http://tahaceritli.github.io/"><img src="https://tahaceritli.github.io/images/profile.png" width="100px;" alt=""/><br /><sub><b>Taha Ceritli</b></sub> </a> </td>
-    <td align="center"><a href="https://github.com/apcreagh"><img src="https://avatars.githubusercontent.com/u/22932251?v=4" width="120px;" alt=""/><br /><sub><b>Andrew P. Creagh</b></sub> </a> </td>
+    <td align="center"><a href="https://www.andrewcreagh.com/"><img src="https://avatars.githubusercontent.com/u/22932251?v=4" width="120px;" alt=""/><br /><sub><b>Andrew P. Creagh</b></sub> </a> </td>
     </tr>
 </table>
 
